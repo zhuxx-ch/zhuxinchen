@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/zhuxinchen-appplication/pom.xml" />
         <option value="$PROJECT_DIR$/zhuxinchen-domain/pom.xml" />
         <option value="$PROJECT_DIR$/zhuxinchen-infrastructure/pom.xml" />
+        <option value="$PROJECT_DIR$/zhuxinchen-appplication/zhuxinchen-web/pom.xml" />
       </list>
     </option>
   </component>

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/desktop-tutorial.iml" filepath="$PROJECT_DIR$/.idea/desktop-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhuxinchen-appplication/zhuxinchen-web/zhuxinchen-web.iml" filepath="$PROJECT_DIR$/zhuxinchen-appplication/zhuxinchen-web/zhuxinchen-web.iml" />
     </modules>
   </component>
 </project>
