@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="zhuxinchen-biz" />
-        <module name="study" />
         <module name="zhuxinchen-api" />
         <module name="zhuxinchen-dao" />
         <module name="zhuxinchen-integration" />
         <module name="zhuxinchen-domain" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="study" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
