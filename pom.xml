@@ -4,24 +4,20 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <parent>
-        <artifactId>zhuxx-cn.zhuxinchen</artifactId>
-        <groupId>org.example</groupId>
-        <version>1.0-SNAPSHOT</version>
-    </parent>
-
-    <artifactId>zhuxinchen-infrastructure</artifactId>
+    <groupId>org.example</groupId>
+    <artifactId>zhuxx-cn.zhuxinchen</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>zhuxinchen-integration</module>
-        <module>zhuxinchen-dao</module>
+        <module>zhuxinchen-appplication</module>
+        <module>zhuxinchen-domain</module>
+        <module>zhuxinchen-infrastructure</module>
     </modules>
 
     <properties>
-        <maven.compiler.source>18</maven.compiler.source>
-        <maven.compiler.target>18</maven.compiler.target>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
     </properties>
 
 </project>
