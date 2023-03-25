@@ -9,7 +9,7 @@ package org.cn.zhuxin.biz.activity.study.broadview;
  */
 public class StrToInt {
 
-    public static int strToInt(String str) {
+    public int strToInt(String str) {
         if(str==null || str.length()==0)return 0;
         char[] ch = str.toCharArray();
         int flag = 1;//无符号默认是1
@@ -30,10 +30,5 @@ public class StrToInt {
             else return 0;//出现非法字符
         }
         return res*=flag;
-    }
-
-    public static void main(String[] args){
-        int res = strToInt("1234");
-        System.out.println(res);
     }
 }

@@ -7,7 +7,7 @@ import org.cn.zhuxin.biz.activity.study.model.ListNode;
  */
 public class BM1 {
 
-    public static ListNode reverseList(ListNode head){
+    public ListNode reverseList(ListNode head){
         if (head == null){
             return null;
         }
@@ -28,17 +28,5 @@ public class BM1 {
             next = new ListNode(tmpNext.getVal(),tmpNext.getNext());
         }
         return next;
-    }
-
-    public static void main(String[] args){
-        try {
-            ListNode last = new ListNode(3,null);
-            ListNode second = new ListNode(2,last);
-            ListNode head = new ListNode(1,second);
-            ListNode revert = reverseList(head);
-            System.out.println(revert);
-        }catch (Throwable t){
-            System.out.println(t);
-        }
     }
 }

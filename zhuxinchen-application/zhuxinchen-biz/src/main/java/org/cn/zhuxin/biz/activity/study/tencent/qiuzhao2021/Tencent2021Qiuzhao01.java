@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class Tencent2021Qiuzhao01 {
-    public static void main(String[] args) throws IOException {
+    public void main(String[] args) throws IOException {
         BufferedReader read = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(read.readLine().trim());
         String s = read.readLine().trim();
@@ -42,7 +42,7 @@ public class Tencent2021Qiuzhao01 {
         int result = value(leftCnt)+value(rightCnt)+value(sameCnt);
         System.out.println(result);
     }
-    private static int value(int count){
+    private int value(int count){
         int value = 0;
         for (int i=1;i<=count;i++){
             value = value+i;
