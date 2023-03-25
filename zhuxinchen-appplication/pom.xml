@@ -11,6 +11,7 @@
     </parent>
 
     <artifactId>zhuxinchen-appplication</artifactId>
+    <packaging>pom</packaging>
 
     <modules>
         <module>zhuxinchen-web</module>

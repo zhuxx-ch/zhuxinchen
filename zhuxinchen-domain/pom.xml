@@ -11,6 +11,7 @@
     </parent>
 
     <artifactId>zhuxinchen-domain</artifactId>
+    <packaging>pom</packaging>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
