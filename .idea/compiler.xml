@@ -10,6 +10,7 @@
         <module name="zhuxinchen-api" />
         <module name="zhuxinchen-domain" />
         <module name="zhuxinchen-biz" />
+        <module name="zhuxinchen-appplication" />
         <module name="zhuxinchen-web" />
         <module name="zhuxinchen-dao" />
         <module name="zhuxinchen-integration" />
