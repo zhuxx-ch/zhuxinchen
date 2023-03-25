@@ -20,7 +20,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="zhuxinchen-web" options="-parameters" />
+      <module name="zhuxinchen-web" options="" />
     </option>
   </component>
 </project>

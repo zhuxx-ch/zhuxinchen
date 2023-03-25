@@ -13,6 +13,7 @@
     <artifactId>zhuxinchen-appplication</artifactId>
 
     <modules>
+        <module>zhuxinchen-web</module>
         <module>zhuxinchen-api</module>
         <module>zhuxinchen-biz</module>
     </modules>
