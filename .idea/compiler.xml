@@ -15,9 +15,7 @@
         <module name="zhuxinchen-domain" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="study" target="17" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8" />
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
