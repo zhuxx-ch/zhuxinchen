@@ -4,34 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d00d9eef-9efd-4c91-b3b7-195a3f182640" name="Changes" comment="" />
+    <list default="true" id="cdeb1486-aa1d-4020-adb2-e557f4f5c5a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/desktop-tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/zhuxinchen.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" show_ignored="true">
-    <option name="groupingKeys">
-      <option value="module" />
-    </option>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="main" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -39,60 +30,17 @@
         <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="createModuleGroups" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
-  <component name="ProjectId" id="2NV1NHjeWP2iV3gUzceGCjouS2w" />
-  <component name="ProjectViewState">
-    <option name="flattenModules" value="true" />
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-    <option name="showVisibilityIcons" value="true" />
-  </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/zhuxx/IdeaProjects/zhuxinchen&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;14ef3406670c70362f9ba999c21ba8a0&quot;
-  }
-}</component>
-  <component name="RunManager" selected="JUnit.ApplicationTests.contextLoads">
-    <configuration name="ApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="zhuxinchen-web" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cnjh.zhuxinchen.web.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cnjh.zhuxinchen.web" />
-      <option name="MAIN_CLASS_NAME" value="com.cnjh.zhuxinchen.web.ApplicationTests" />
-      <option name="TEST_OBJECT" value="class" />
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="zhuxinchen-application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
-      <module name="zhuxinchen-web" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cnjh.zhuxinchen.web.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cnjh.zhuxinchen.web" />
-      <option name="MAIN_CLASS_NAME" value="com.cnjh.zhuxinchen.web.ApplicationTests" />
-      <option name="METHOD_NAME" value="contextLoads" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="zhuxinchen-application" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -104,278 +52,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="JUnit.ApplicationTests.contextLoads" />
-      <item itemvalue="JUnit.ApplicationTests" />
-      <item itemvalue="Spring Boot.Application" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.ApplicationTests" />
-      </list>
-    </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="d00d9eef-9efd-4c91-b3b7-195a3f182640" name="Changes" comment="" />
-      <created>1679734394190</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1679734394190</updated>
-      <workItem from="1679734396324" duration="2612000" />
-      <workItem from="1679737048749" duration="1000" />
-      <workItem from="1679737064022" duration="7018000" />
-      <workItem from="1679798570106" duration="13706000" />
-      <workItem from="1680334469918" duration="4136000" />
-      <workItem from="1680340715344" duration="133000" />
-      <workItem from="1680341091416" duration="864000" />
-      <workItem from="1680342185538" duration="3368000" />
-      <workItem from="1680445422020" duration="484000" />
-    </task>
-    <task id="LOCAL-00001" summary="add parent">
-      <created>1679734583574</created>
+    <task id="LOCAL-00001" summary="idea config">
+      <created>1680451161738</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1679734583574</updated>
+      <updated>1680451161738</updated>
     </task>
-    <task id="LOCAL-00002" summary="add parent">
-      <created>1679734830958</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1679734830958</updated>
-    </task>
-    <task id="LOCAL-00003" summary="dependency simple">
-      <created>1679736981944</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1679736981944</updated>
-    </task>
-    <task id="LOCAL-00004" summary="StrToInt">
-      <created>1679737670772</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1679737670772</updated>
-    </task>
-    <task id="LOCAL-00005" summary="StrToInt">
-      <created>1679737709874</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1679737709874</updated>
-    </task>
-    <task id="LOCAL-00006" summary="add code">
-      <created>1679752282101</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1679752282101</updated>
-    </task>
-    <task id="LOCAL-00007" summary="add code">
-      <created>1679752426406</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1679752426406</updated>
-    </task>
-    <task id="LOCAL-00008" summary="test case">
-      <created>1679753213618</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1679753213618</updated>
-    </task>
-    <task id="LOCAL-00009" summary="test case">
-      <created>1679753254405</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1679753254405</updated>
-    </task>
-    <task id="LOCAL-00010" summary="AddTwoNumbers">
-      <created>1679838946571</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1679838946571</updated>
-    </task>
-    <task id="LOCAL-00011" summary="LengthOfLongestSubstring">
-      <created>1679843338400</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1679843338400</updated>
-    </task>
-    <task id="LOCAL-00012" summary="LongestPalindrome">
-      <created>1679924607066</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1679924607066</updated>
-    </task>
-    <task id="LOCAL-00013" summary="LongestPalindrome">
-      <created>1679924616011</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1679924616011</updated>
-    </task>
-    <task id="LOCAL-00014" summary="LongestPalindrome">
-      <created>1680329938909</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1680329938909</updated>
-    </task>
-    <task id="LOCAL-00015" summary="fibonacci">
-      <created>1680334856735</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1680334856735</updated>
-    </task>
-    <task id="LOCAL-00016" summary="NumberOf1、reorderarray">
-      <created>1680338037305</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1680338037305</updated>
-    </task>
-    <task id="LOCAL-00017" summary="FindKthToTail">
-      <created>1680339746899</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1680339746899</updated>
-    </task>
-    <task id="LOCAL-00018" summary="lombok dependency">
-      <created>1680342546211</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1680342546211</updated>
-    </task>
-    <task id="LOCAL-00019" summary="lombok dependency">
-      <created>1680342648677</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1680342648677</updated>
-    </task>
-    <task id="LOCAL-00020" summary="ReverseList">
-      <created>1680444341276</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1680444341276</updated>
-    </task>
-    <option name="localTasksCounter" value="21" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ID_ORDER">
-      <list>
-        <option value="Default.Root" />
-        <option value="Default.Author" />
-        <option value="Default.Date" />
-        <option value="Default.Subject" />
-        <option value="Space.CommitStatus" />
-      </list>
-    </option>
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add parent" />
-    <MESSAGE value="dependency simple" />
-    <MESSAGE value="StrToInt" />
-    <MESSAGE value="add code" />
-    <MESSAGE value="test case" />
-    <MESSAGE value="AddTwoNumbers" />
-    <MESSAGE value="LengthOfLongestSubstring" />
-    <MESSAGE value="LongestPalindrome" />
-    <MESSAGE value="fibonacci" />
-    <MESSAGE value="NumberOf1、reorderarray" />
-    <MESSAGE value="FindKthToTail" />
-    <MESSAGE value="lombok dependency" />
-    <MESSAGE value="ReverseList" />
-    <option name="LAST_COMMIT_MESSAGE" value="ReverseList" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/zhuxinchen-application/zhuxinchen-biz/src/main/java/org/cn/zhuxin/biz/activity/study/broadview/StrToInt.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/zhuxinchen-application/zhuxinchen-biz/src/main/java/org/cn/zhuxin/biz/activity/study/broadview/CutRope.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/zhuxinchen-application/zhuxinchen-biz/src/main/java/org/cn/zhuxin/biz/activity/study/broadview/CutRope.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/zhuxinchen-application/zhuxinchen-biz/src/main/java/org/cn/zhuxin/biz/activity/study/broadview/CutRope.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/zhuxinchen-application/zhuxinchen-biz/src/main/java/org/cn/zhuxin/biz/activity/study/leetcode/LengthOfLongestSubstring.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/zhuxinchen-application/zhuxinchen-biz/src/main/java/org/cn/zhuxin/biz/activity/study/leetcode/LengthOfLongestSubstring.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/zhuxinchen-application/zhuxinchen-biz/src/main/java/org/cn/zhuxin/biz/activity/study/leetcode/LongestPalindrome.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/zhuxinchen-application/zhuxinchen-biz/src/main/java/org/cn/zhuxin/biz/activity/study/leetcode/LongestPalindrome.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/zhuxinchen-application/zhuxinchen-biz/src/main/java/org/cn/zhuxin/biz/activity/study/broadview/NumberOf1.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/zhuxinchen-application/zhuxinchen-biz/src/main/java/org/cn/zhuxin/biz/activity/study/broadview/NumberOf1.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/zhuxinchen-application/zhuxinchen-web/src/test/java/com/cnjh/zhuxinchen/web/ApplicationTests.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="idea config" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea config" />
   </component>
 </project>
