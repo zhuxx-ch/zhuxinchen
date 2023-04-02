@@ -10,9 +10,10 @@ class ApplicationTests {
 
     @Test
     void contextLoads() {
-        ListNode next1 = new ListNode(2);
-        ListNode pHead = new ListNode(1,next1);
-        ListNode res = FindKthToTail.FindKthToTail(pHead,2);
+//        ListNode third = new ListNode(3);
+//        ListNode second = new ListNode(2,third);
+        ListNode pHead = new ListNode(1);
+        ListNode res = ReverseList.ReverseList(pHead);
         System.out.println(res.getVal());
     }
 }
