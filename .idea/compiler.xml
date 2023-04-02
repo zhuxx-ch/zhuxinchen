@@ -7,17 +7,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="zhuxinchen-biz" />
+        <module name="zhuxinchen-web" />
+        <module name="zhuxinchen-dao" />
+        <module name="zhuxinchen-api" />
+        <module name="zhuxinchen-integration" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8">
-      <module name="zhuxinchen-api" target="1.8" />
-      <module name="zhuxinchen-application" target="1.8" />
-      <module name="zhuxinchen-biz" target="1.8" />
-      <module name="zhuxinchen-dao" target="1.8" />
-      <module name="zhuxinchen-infrastructure" target="18" />
-      <module name="zhuxinchen-integration" target="1.8" />
-      <module name="zhuxinchen-web" target="1.8" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8" />
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
